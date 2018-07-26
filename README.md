@@ -8,4 +8,4 @@ In this dataset, we provide 19,000 images of 30 different species of animals. In
 -------------------------------------------------------------------------------------------------------------------------------------------
 This is a baseline file for beginners to start in the field of deep learning through this challenge. 
 
-Link To the Challenge: https://www.hackerearth.com/challenge/competitive/deep-learning-beginner-challenge/
+Link to the Challenge: https://www.hackerearth.com/challenge/competitive/deep-learning-beginner-challenge/
